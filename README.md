@@ -13,37 +13,11 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with 8+ years of experience building websites, e-commerce platforms, custom systems and digital products.
+💻Full Stack Developer with 6+ years of experience building websites, e-commerce platforms, custom systems and digital products.
 
-My expertise combines software development, UI implementation, SEO, performance optimization and business-oriented solutions.
+🎯 My expertise combines software development, UI implementation, SEO, performance optimization and business-oriented solutions.
 
-Currently pursuing a degree in Analysis and Systems Development while working on projects involving Laravel, WordPress, React and Next.js.
-
----
-
-# 🚀 Core Expertise
-
-✔ Full Stack Development
-
-✔ Laravel Applications
-
-✔ WordPress Solutions
-
-✔ E-commerce Architecture
-
-✔ React & Next.js Applications
-
-✔ REST API Integrations
-
-✔ Performance Optimization
-
-✔ Technical SEO
-
-✔ UI/UX Implementation
-
-✔ Business Automation
-
-✔ Conversion-Focused Websites
+📚  Currently pursuing a degree in Analysis and Systems Development while working on projects involving Laravel, WordPress, React and Next.js.
 
 ---
 
