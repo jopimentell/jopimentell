@@ -44,13 +44,13 @@
 ### 🛒 E-commerce Platforms
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Shopify_logo.svg" height="28" alt="Shopify"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Shopify_logo.svg?style=for-the-badge" height="28" alt="Shopify"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Nuvemshop-logo.png" height="28" alt="Nuvemshop"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Nuvemshop-logo.png?style=for-the-badge" height="28" alt="Nuvemshop"/>
   &nbsp;&nbsp;
-  <img src="https://sitetray.s3.amazonaws.com/wp-content/uploads/2025/09/logo_tray.webp" height="28" alt="Tray"/>
+  <img src="https://sitetray.s3.amazonaws.com/wp-content/uploads/2025/09/logo_tray.webp?style=for-the-badge" height="28" alt="Tray"/>
   &nbsp;&nbsp;
-  <img src="https://lojaintegrada.com.br/hub/wp-content/uploads/2022/05/Loja-Integrada-RGB-Flat-Fundo-Branco-LOGO.png" height="28" alt="Loja Integrada"/>
+  <img src="https://lojaintegrada.com.br/hub/wp-content/uploads/2022/05/Loja-Integrada-RGB-Flat-Fundo-Branco-LOGO.png?style=for-the-badge" height="28" alt="Loja Integrada"/>
   &nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" height="28" alt="WooCommerce"/>
 </p>
