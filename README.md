@@ -35,12 +35,6 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
 </p>
 
-### CMS
-
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress" />
-</p>
-
 ### 🛒 E-commerce Platforms
 
 <p align="left">
@@ -67,20 +61,6 @@ Experience developing, customizing and optimizing stores across multiple e-comme
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jopimentell&show_icons=true&hide_border=true" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jopimentell&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jopimentell&hide_border=true" />
 </p>
 
 ---
@@ -112,6 +92,10 @@ Experience developing, customizing and optimizing stores across multiple e-comme
 
   <a href="https://linkedin.com/in/jopimentell">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="https://www.instagram.com/ojopimentell">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
