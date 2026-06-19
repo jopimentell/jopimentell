@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm João Pimentel 👋</h1>
+<h1 align="center">Hi, I'm Jó Pimentell 👋</h1>
 
 <p align="center">
   Full Stack Developer • Web Designer • Problem Solver
