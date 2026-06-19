@@ -8,11 +8,6 @@
 <p align="center">
   Building scalable web applications, e-commerce platforms and business solutions.
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jopimentell&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
